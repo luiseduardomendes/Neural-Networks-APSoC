@@ -11,10 +11,10 @@ Developing Fault Tolerance Techniques on Neural Networks for new All Programmabl
    * Topology Selection
 
 ## First works:
- [] Selection of a FPGA AMD Xilinx board
- [] Setting up the environment on the working station
- [] PetaLinux Installation
- [] Implementation of the neural networks demo application
- [] Data collection
- [] Acquirement and extaction of data from the data bases
- [] Conversion of the data to the PyTorch or TensorFlow Vitis AI 
+ - [ ] Selection of a FPGA AMD Xilinx board
+ - [ ] Setting up the environment on the working station
+ - [ ] PetaLinux Installation
+ - [ ] Implementation of the neural networks demo application
+ - [ ] Data collection
+ - [ ] Acquirement and extaction of data from the data bases
+ - [ ] Conversion of the data to the PyTorch or TensorFlow Vitis AI 
